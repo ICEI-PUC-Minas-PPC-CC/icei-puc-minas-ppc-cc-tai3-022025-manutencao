@@ -1,15 +1,13 @@
-# 📌 Nome do Projeto
+# 📌 Arruma Aqui
 
-Breve descrição do problema identificado e da solução proposta.  
-Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
+Um aplicativo de manutenção residencial que conecta pessoas que precisam de reparos ou serviços em casa com empresas e freelancers qualificados. O usuário posta a necessidade de manutenção e os prestadores de serviço informam se realizam ou não o trabalho, facilitando o contato e a contratação.
 
 ---
 
 ## 👥 Integrantes
 
-- Nome 1 – RA: XXXXXXXX  
-- Nome 2 – RA: XXXXXXXX  
-- Nome 3 – RA: XXXXXXXX  
+- Henrique Rocha – RA: 609413
+- Tamoni – RA: 899193
 
 ---
 
