@@ -1,6 +1,6 @@
 # 📌 Arruma Aqui
 
-Um aplicativo de manutenção residencial que conecta pessoas que precisam de reparos ou serviços em casa com empresas e freelancers qualificados. O usuário posta a necessidade de manutenção e os prestadores de serviço informam se realizam ou não o trabalho, facilitando o contato e a contratação.
+Um aplicativo focado em manutenção residencial que fomenta a conexão de pessoas que precisam de reparos ou serviços em casa com empresas e freelancers qualificados. O usuário publica a necessidade de manutenção e junto aos prestadores de serviço negociam sobre a realização do trabalho, facilitando o contato e a contratação.
 
 ---
 
@@ -14,10 +14,22 @@ Um aplicativo de manutenção residencial que conecta pessoas que precisam de re
 ## 🧭 Etapas do Projeto
 
 ### 1️⃣ Definição do Problema e da Solução
-- **Problema identificado:**  
-- **Público-alvo:**  
-- **Impacto esperado:**  
-- **Solução proposta:**  
+- **Problema identificado:** Atualmente, a contratação de serviços é um processo disperso, que ocorre por meio de indicações, publicações em redes sociais e outros meios. Essa busca pelo profissional ideal pode tornar-se desgastante e, muitas vezes insegura, visto que esses serviços costumam ser realizados sem um contrato que respalde todos os envolvidos, o que pode resultar em transtornos. Além disso, o prestador de serviços precisa de um esforço extra para divulgar seu trabalho, já que seu público-alvo está fragmentado em diversos lugares.
+- **Público-alvo:**
+  * Público-alvo primário:
+    - Pessoas responsáveis pela administração de uma residência, que não possuam tempo e/ou habilidade para solucionar a demanda de manutenção.
+    - Filhos e/ou familiares de idosos que precisem contratar um serviço de manutenção confiável mesmo a distância.
+       
+  * Público-alvo secundário:
+    - Prestadores de Serviço Autônomos que queiram expandir seu público.
+    - Microempresas de Serviços que precisam de mais espaço para divulgação.
+    - "Faz-tudo" alternativa de renda extra      
+   
+- **Impacto esperado:**
+  - A aplicação impacta como um elo condutor entre contratante e contratado, os envolvidos comunicam suas necessidades e acordam sobre a prestação do serviço. Proporcionando comodidade para ambas as partes, a resolução da demanda fica a alguns cliques de distância. 
+ 
+- **Solução proposta:**
+  - A aplicação proposta está em todos os pontos de contato de necessidade do público-alvo, desde a divulgação da demanda pelo contratante, passando pela resolução do problema pelo contratado, até o estágio final, o pagamento. Indo além, com um sistema de avaliação e um histórico de serviços prestados/contratados para fortificar a confiabilidade dos usuários. 
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
