@@ -33,9 +33,9 @@ Um aplicativo focado em manutenção residencial que fomenta a conexão de pesso
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
-- Missão:  
-- Visão:  
-- Valores:  
+- Missão: Facilitar uma conexão descomplicada e segura entre quem precisa e quem oferece serviços do dia a dia, possibilitando uma negociação justa e transparente. 
+- Visão: Construir uma comunidade de milhões de usuários e profissionais, onde a confiança e a oportunidade gerem desenvolvimento econômico para milhares de lares e microempreendedores.  
+- Valores: A transparência é o alicerce para uma negociação justa. 
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
