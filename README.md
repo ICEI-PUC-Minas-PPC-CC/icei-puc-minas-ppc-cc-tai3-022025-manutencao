@@ -32,7 +32,8 @@ Um aplicativo focado em manutenção residencial que fomenta a conexão de pesso
   - A aplicação proposta está em todos os pontos de contato de necessidade do público-alvo, desde a divulgação da demanda pelo contratante, passando pela resolução do problema pelo contratado, até o estágio final, o pagamento. Indo além, com um sistema de avaliação e um histórico de serviços prestados/contratados para fortificar a confiabilidade dos usuários. 
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- Lean Canvas (https://docs.google.com/document/d/1--GbaUqw7AJw2YyKWiNVUAer_L8rSEpis0bn5SavGRI/edit?usp=sharing)
+- Lean Canvas
+- ![Lean Canvas Arruma Aqui](Imagens/LeanCanvasArrumaAqui.jpg)
 - Missão: Facilitar uma conexão descomplicada e segura entre quem precisa e quem oferece serviços do dia a dia, possibilitando uma negociação justa e transparente. 
 - Visão: Construir uma comunidade de milhões de usuários e profissionais, onde a confiança e a oportunidade gerem desenvolvimento econômico para milhares de lares e microempreendedores.  
 - Valores: A transparência é o alicerce para uma negociação justa. 
