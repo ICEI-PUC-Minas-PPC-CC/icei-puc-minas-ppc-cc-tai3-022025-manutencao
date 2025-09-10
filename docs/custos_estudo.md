@@ -47,3 +47,10 @@ No processo, pesquisamos sobre os valores e nos apoiamos na PNBOX sugerida em au
 | Depreciação de máquinas | 3.000 – 5.000/mês |
 
 ---
+
+## Observações e Considerações
+
+- Os valores apresentados são estimativas e podem variar.  
+- Foi considerado um cenário ideal, com equipe especializada, mas ajustes podem ser feitos para reduzir custos no início da operação.  
+- O investimento inicial em marketing e infraestrutura poderá variar bastante conforme o modelo de crescimento.  
+- Após o lançamento do MVP, os custos tendem a estabilizar em um patamar menor, com foco em manutenção, suporte e otimização.  
