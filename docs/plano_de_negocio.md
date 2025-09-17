@@ -1,4 +1,6 @@
 # 📊 Investimentos e Precificação
+[Financas.pdf](https://github.com/user-attachments/files/22392983/Financas.pdf)
+
 
 ## 💰 Investimentos
 
