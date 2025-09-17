@@ -1,4 +1,7 @@
-**Valor Entregue**
+
+<h1>Precificação</h1>
+
+**Valor Entregue**<br>
 Para o cliente comum (contratante):
 Economia de tempo.
 Segurança e confiabilidade (perfil avaliado, sistema de reputação, garantia da plataforma).
@@ -9,13 +12,13 @@ Acesso a uma base maior de clientes.
 Maior visibilidade sem precisar investir em marketing próprio.
 Pagamento garantido via plataforma.
 
-**Capacidade de Pagamento**
+**Capacidade de Pagamento**<br>
 O público-alvo, em tese, não pagaria uma taxa que inviabilizasse a contratação pelo aplicativo em relação a informalidade.
 
-**Concorrência direta**
+**Concorrência direta**<br>
 Contratação informal por redes sociais.
 
-**Modelo de Precificação**
+**Modelo de Precificação**<br>
 Gratuito:
 Cliente acessa a plataforma sem custo.
 Prestador cadastra o perfil gratuitamente.
@@ -29,11 +32,11 @@ Plano Básico (grátis): até 10 propostas/mês, destaque limitado.
 Plano Pro (R$ 150,00/semestre): até 50 propostas/mês, perfil em destaque.
 Plano Premium (R$ 300,00/semestre): propostas ilimitadas + ferramentas extras.
 
-**Periodicidade**
+**Periodicidade**<br>
 Planos semestrais para prestadores de serviços.
 Taxa de transação aplicada sempre que houver pagamento.
 
-**Métricas para acompanhamento**
+**Métricas para acompanhamento**<br>
 CAC (Custo de Aquisição de Cliente)
 ARPU (Receita Média por Usuário):
 LTV (Lifetime Value)
