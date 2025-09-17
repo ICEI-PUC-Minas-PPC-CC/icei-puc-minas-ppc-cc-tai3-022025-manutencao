@@ -41,7 +41,7 @@ Um aplicativo focado em manutenção residencial que fomenta a conexão de pesso
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - [Custos e Tributos (Plano de Negócios - PNBOX)](docs/custos_estudo.md)
 
-### 4️⃣ Investimentos e Precificação
+### 4️⃣ Investimentos e Precificação (docs/plano_de_negocio.md)
 - Investimento inicial:  
 - Estratégia de precificação:  
 - Justificativa:  
