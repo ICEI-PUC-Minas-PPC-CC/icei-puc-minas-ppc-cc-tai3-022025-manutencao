@@ -43,8 +43,8 @@ Um aplicativo focado em manutenção residencial que fomenta a conexão de pesso
 
 ### 4️⃣ [Investimentos e Precificação](docs/plano_de_negocio.md)
 - Investimento inicial:  
-- Estratégia de precificação:  
-- Justificativa:  
+- Estratégia de precificação: Taxa por transação concluída.
+- Justificativa: Embutir a precificação na transação ajuda a mitigar o processo de pagamento aos envolvidos. 
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças:  
