@@ -42,7 +42,8 @@ Um aplicativo focado em manutenção residencial que fomenta a conexão de pesso
 - [Custos e Tributos (Plano de Negócios - PNBOX)](docs/custos_estudo.md)
 
 ### 4️⃣ Investimentos e Precificação
-- [Investimentos e Precificação](docs/plano_de_negocio.md) 
+- [Investimentos e Precificação](docs/plano_de_negocio.md)
+- [Enquadramento Jurídico e Tributário](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-manutencao/blob/main/docs/plano_de_negocio.md#-enquadramento-jur%C3%ADdico-e-tribut%C3%A1rio)
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças:  
