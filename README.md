@@ -46,10 +46,8 @@ Um aplicativo focado em manutenção residencial que fomenta a conexão de pesso
 - [Enquadramento Jurídico e Tributário](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-manutencao/blob/main/docs/plano_de_negocio.md#-enquadramento-jur%C3%ADdico-e-tribut%C3%A1rio)
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  
-- Fraquezas:  
-- Oportunidades:  
-- Ameaças:  
+- [Análise de Ambientes] (https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-manutencao/blob/main/docs/plano_de_negocio.md#-pesquisa-de-mercado)
+- [Análise SWOT] ()
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 - Objetivos estratégicos:  
