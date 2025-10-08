@@ -130,3 +130,59 @@ Também são boas práticas:
 Contabilidade organizada: escrituração contábil simplificada, balanço patrimonial, diário e livro caixa.
 Registro de marca e software no INPI, protegendo a propriedade intelectual da plataforma.
 Adequação à LGPD (Lei Geral de Proteção de Dados): implementação de políticas de privacidade e segurança da informação, fundamentais para um marketplace que processa dados pessoais de prestadores e contratantes.
+
+
+# 📊 Pesquisa de Mercado
+## Concorrentes:
+### Workana
+É uma plataforma de frellancers, que mesmo que não seja focada no público de manutenção, possui reconhecimento internacional, além de uma estrutura consistente do seu serviço. Isso pode trazer ameaças futuras, caso a plataforma se expanda até o nosso público-alvo, pois ela já possui reconhecimento entre frellancers de TI, design, marketing, redação.
+Hoje, o modelo de negócio cobra taxa por transação (5% a 20%) e possui assinaturas premium para freelancers a partir de US$ 9,99/mês. 
+Identificamos que, a plataforma não apresenta indicativos de expandir para a nossa área de atuação, mas é necessário nos manter atentos a novas movimentações.
+
+### GetNinjas
+Atuando diretamente com o nosso público-alvo, o GetNinja trabalha com planos de assinatura para enviar orçamentos, possui grande base de usuários, presença nacional, ampla gama de serviços. Também é reconhecido, e propõe planos de R$ 59 a R$ 399/mês para prestadores. A ameaça dessa concorrência é direta, o que nos coloca em posição de risco.
+Porém, mesmo diante da potência desse concorrente, identificamos que a comunicação na plataforma está devassada, depoimentos antigos expostos e sem atualizações recentes, o que nos indica uma brecha para o nosso posicionamento.
+
+### Concorrente Regional
+O concorrente mais complexo de lidar, a conexão direta entre cliente e prestador é um obstáculo. Por não possuir garantia formal, os valores dos serviços são menores, é o método mais popular de prestação de serviços. Geramente fomentado nas redes sociais ou indicações de conhecidos, não possui taxas, ainda que nos atentamos ao fato de que também não há garantias e contratos envolvidos.
+A segurança é o grande diferencial que possuímos diante dessa concorrência, a nossa plataforma com indicadores de qualidade da prestação do serviço ressoa na confiabilidade da contratação.
+
+## 📊 Matriz SWOT (FOFA)
+
+| **Forças** | **Fraquezas** |
+|--------------------------|-----------------------------|
+| Plataforma digital intuitiva e acessível. | Dependência de prestadores externos para qualidade do serviço. |
+| Modelo freemium com taxa de transação atrativa. | Baixa visibilidade inicial no mercado. |
+| Diferenciação por funcionalidades exclusivas. | Necessidade de alto investimento em marketing para aquisição de clientes. |
+
+| **Oportunidades** | **Ameaças** |
+|-----------------------------------|------------------------|
+| Crescente demanda por serviços sob demanda e digitais. | Forte concorrência de marketplaces já consolidados. |
+| Expansão para cidades menores com baixa oferta de serviços digitalizados. | Risco de insatisfação do cliente impactar reputação da marca rapidamente. |
+| Possibilidade de parcerias estratégicas com especialistas em prestação de serviços. | Alterações em legislações trabalhistas/tributárias que possam aumentar custos. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
