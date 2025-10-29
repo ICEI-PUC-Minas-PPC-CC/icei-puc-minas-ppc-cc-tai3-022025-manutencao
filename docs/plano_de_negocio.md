@@ -161,7 +161,19 @@ A segurança é o grande diferencial que possuímos diante dessa concorrência, 
 | Expansão para cidades menores com baixa oferta de serviços digitalizados. | Risco de insatisfação do cliente impactar reputação da marca rapidamente. |
 | Possibilidade de parcerias estratégicas com especialistas em prestação de serviços. | Alterações em legislações trabalhistas/tributárias que possam aumentar custos. |
 
+# 🧠 Análise Fluxo de Caixa
 
+A análise das perspectivas financeiras, operacionais e de aprendizado, somada à matriz SWOT, demonstra que o Arruma Aqui está fundamentado em uma proposta de valor sólida, com um modelo de monetização escalável e um posicionamento diferenciado no mercado de serviços sob demanda.
+
+Do ponto de vista financeiro, o investimento inicial estimado entre R$ 355 mil e R$ 529 mil cobre os custos de estrutura, capital de giro e desenvolvimento do MVP, garantindo seis meses de operação até a estabilização da base de usuários. O modelo de receitas baseado em taxas de transação (12%) e planos premium semestrais oferece previsibilidade e sustentabilidade, permitindo o equilíbrio entre lucratividade e acessibilidade para os prestadores.
+
+Na perspectiva de mercado, o Arruma Aqui se posiciona entre plataformas como GetNinjas e Workana, mas com um foco mais direto e confiável no nicho de manutenção residencial. A proposta de unir prestadores verificados, avaliações públicas e garantias de serviço cria uma barreira competitiva importante, especialmente frente à informalidade predominante no setor.
+
+Operacionalmente, o modelo é enxuto, escalável e de fácil replicação para outras cidades, com custos fixos controlados e despesas variáveis proporcionais ao crescimento. O investimento em marketing e tecnologia é essencial nos primeiros meses, garantindo a tração inicial e o fortalecimento da marca.
+
+Pontos fortes incluem a proposta inovadora, a usabilidade da plataforma e o potencial de fidelização dos usuários por meio de segurança e transparência. Por outro lado, os principais desafios são o alto custo de aquisição de clientes e a necessidade de conquistar confiança no mercado — fatores comuns a startups em estágio inicial.
+
+Por fim, a análise SWOT evidencia um equilíbrio entre oportunidades e riscos, mostrando que, com uma gestão eficiente e foco em parcerias estratégicas, o Arruma Aqui possui alto potencial de crescimento e consolidação como a principal solução digital para manutenção residencial no Brasil.
 
 
 
