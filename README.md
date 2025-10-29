@@ -55,8 +55,8 @@ Um aplicativo focado em manutenção residencial que fomenta a conexão de pesso
 - Ações planejadas:  
 
 ### 7️⃣ Fluxo de Caixa
-- Planilha ou print do fluxo projetado:  
-- Principais considerações:  
+- [Planilha Fluxo de Caixa](docs/fluxo_de_caixa.xlsx)  
+- Principais considerações: [Investimentos e Precificação](docs/plano_de_negocio.md) 
 
 ### 8️⃣ Valuation
 - Método utilizado:  
